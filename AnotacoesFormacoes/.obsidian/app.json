@@ -1,0 +1,15 @@
+{
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "strictLineBreaks": false,
+  "foldIndent": false,
+  "defaultViewMode": "source",
+  "propertiesInDocument": "visible",
+  "showLineNumber": false,
+  "promptDelete": false
+}

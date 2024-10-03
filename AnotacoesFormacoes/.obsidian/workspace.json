@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "52445d27f240460e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cefa9de916e840ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c96c532bfbb6038",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sétimo Semestre/Desenvolvimento de sistemas distribuídos - Matéria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d2286287630a8a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d624d6ad178fa5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a342f7e0e691ba0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d9a249e3bc20ae30",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": " ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5b727f6894bd5b62",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5e4b300202fef6b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "927fdc1b63fb902e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c83e7df9fb69532c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sétimo Semestre/Desenvolvimento de sistemas distribuídos - Matéria.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e23feccf338da315",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sétimo Semestre/Desenvolvimento de sistemas distribuídos - Matéria.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7daeca40245c9c5f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4d4f94ab9fda1cb1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sétimo Semestre/Desenvolvimento de sistemas distribuídos - Matéria.md"
+              }
+            }
+          },
+          {
+            "id": "e691b5216d675e29",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "7daeca40245c9c5f",
+  "lastOpenFiles": [
+    "Rafael/DSD - Desenvolvimento de Sistemas Distribuídos.md",
+    "Análise de Algoritmos - Matéria Completa do Semestre.md",
+    "README.md",
+    "Análise de Algoritmos Aulas NP2.md",
+    "Minha parte ai ksks.md",
+    "Desenvolvimento de sistemas distribuídos - Matéria.pdf",
+    "Sétimo Semestre/Desenvolvimento de sistemas distribuídos - Matéria.md",
+    "2024-09-18.md",
+    "Busca de Fontes e reestruturação da Introdução.md",
+    "Sem título.pdf",
+    "Sem título.canvas",
+    "Sem título.md",
+    "Sem título 2.md",
+    "Sem título 1.md",
+    "Sem título 1.canvas",
+    "Rafael/Para o Rafa.md",
+    "Rafael/TCC + ESTAGIO.md",
+    "Para o Rafa.md",
+    "Sétimo Semestre/Estágio - Matéria Completa.md",
+    "Sétimo Semestre",
+    "Imagens/Pasted image 20240517204916.png",
+    "Imagens/Pasted image 20240516224905.png",
+    "Imagens/Pasted image 20240515234323.png",
+    "Imagens/Pasted image 20240610195740.png",
+    "Imagens/Pasted image 20240610193254.png",
+    "Imagens/Pasted image 20240605185342.png",
+    "Imagens/Pasted image 20240604190031.png",
+    "Imagens/Pasted image 20240604185645.png",
+    "Imagens/Pasted image 20240517220548.png",
+    "Imagens/Pasted image 20240517215835.png",
+    "Imagens",
+    "Nova pasta"
+  ]
+}
