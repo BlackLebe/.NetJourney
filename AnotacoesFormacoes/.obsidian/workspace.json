@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sétimo Semestre/Desenvolvimento de sistemas distribuídos - Matéria.md",
+                "file": "Introdução .net.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sétimo Semestre/Desenvolvimento de sistemas distribuídos - Matéria.md",
+                "file": "Introdução .net.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sétimo Semestre/Desenvolvimento de sistemas distribuídos - Matéria.md",
+                "file": "Introdução .net.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sétimo Semestre/Desenvolvimento de sistemas distribuídos - Matéria.md"
+                "file": "Introdução .net.md"
               }
             }
           },
@@ -156,7 +156,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7daeca40245c9c5f",
+  "active": "4a342f7e0e691ba0",
   "lastOpenFiles": [
     "Rafael/DSD - Desenvolvimento de Sistemas Distribuídos.md",
     "Análise de Algoritmos - Matéria Completa do Semestre.md",
