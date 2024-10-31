@@ -8,24 +8,27 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\calebe.bastos\\.nuget\\packages\\": {}
+    "C:\\Users\\caleb\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\calebe.bastos\\OneDrive - Softtek\\Documents\\Pessoal\\Estudo\\.NetJourney\\ExemploFundamentos\\ExemploFundamentos.csproj",
+      "projectUniqueName": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudo\\Codando\\.NetJourney\\ExemploFundamentos\\ExemploFundamentos.csproj",
       "projectName": "ExemploFundamentos",
-      "projectPath": "C:\\Users\\calebe.bastos\\OneDrive - Softtek\\Documents\\Pessoal\\Estudo\\.NetJourney\\ExemploFundamentos\\ExemploFundamentos.csproj",
-      "packagesPath": "C:\\Users\\calebe.bastos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\calebe.bastos\\OneDrive - Softtek\\Documents\\Pessoal\\Estudo\\.NetJourney\\ExemploFundamentos\\obj\\",
+      "projectPath": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudo\\Codando\\.NetJourney\\ExemploFundamentos\\ExemploFundamentos.csproj",
+      "packagesPath": "C:\\Users\\caleb\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudo\\Codando\\.NetJourney\\ExemploFundamentos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\calebe.bastos\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\caleb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

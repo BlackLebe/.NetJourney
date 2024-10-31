@@ -36,6 +36,12 @@ namespace ExemploFundamentos.Models
             Console.WriteLine($"A Potenciação de expoente {y} na base {x} é  {potencia}");
         }
 
+        public void raizQuadrada(double x)
+        {
+            double raiz = Math.Sqrt(x);
+            Console.WriteLine($"A Raiz quadrada de {x} é {raiz}");
+        }
+
         public void Seno(double angulo)
         {
             double radiano = angulo * Math.PI / 180;
