@@ -13,3 +13,18 @@ C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\ExemploFundamentos
 C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.pdb
 C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.genruntimeconfig.cache
 C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\ExemploFundamentos\obj\Debug\net8.0\ref\ExemploFundamentos.dll
+C:\Users\calebe.bastos\OneDrive - Softtek\Documents\Pessoal\Estudo\.NetJourney\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.exe
+C:\Users\calebe.bastos\OneDrive - Softtek\Documents\Pessoal\Estudo\.NetJourney\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.deps.json
+C:\Users\calebe.bastos\OneDrive - Softtek\Documents\Pessoal\Estudo\.NetJourney\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.runtimeconfig.json
+C:\Users\calebe.bastos\OneDrive - Softtek\Documents\Pessoal\Estudo\.NetJourney\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.dll
+C:\Users\calebe.bastos\OneDrive - Softtek\Documents\Pessoal\Estudo\.NetJourney\ExemploFundamentos\bin\Debug\net8.0\ExemploFundamentos.pdb
+C:\Users\calebe.bastos\OneDrive - Softtek\Documents\Pessoal\Estudo\.NetJourney\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\calebe.bastos\OneDrive - Softtek\Documents\Pessoal\Estudo\.NetJourney\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.AssemblyInfoInputs.cache
+C:\Users\calebe.bastos\OneDrive - Softtek\Documents\Pessoal\Estudo\.NetJourney\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.AssemblyInfo.cs
+C:\Users\calebe.bastos\OneDrive - Softtek\Documents\Pessoal\Estudo\.NetJourney\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\calebe.bastos\OneDrive - Softtek\Documents\Pessoal\Estudo\.NetJourney\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.sourcelink.json
+C:\Users\calebe.bastos\OneDrive - Softtek\Documents\Pessoal\Estudo\.NetJourney\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.dll
+C:\Users\calebe.bastos\OneDrive - Softtek\Documents\Pessoal\Estudo\.NetJourney\ExemploFundamentos\obj\Debug\net8.0\refint\ExemploFundamentos.dll
+C:\Users\calebe.bastos\OneDrive - Softtek\Documents\Pessoal\Estudo\.NetJourney\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.pdb
+C:\Users\calebe.bastos\OneDrive - Softtek\Documents\Pessoal\Estudo\.NetJourney\ExemploFundamentos\obj\Debug\net8.0\ExemploFundamentos.genruntimeconfig.cache
+C:\Users\calebe.bastos\OneDrive - Softtek\Documents\Pessoal\Estudo\.NetJourney\ExemploFundamentos\obj\Debug\net8.0\ref\ExemploFundamentos.dll

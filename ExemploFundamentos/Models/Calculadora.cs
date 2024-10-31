@@ -40,7 +40,21 @@ namespace ExemploFundamentos.Models
         {
             double radiano = angulo * Math.PI / 180;
             double seno = Math.Sin(radiano);
-            Console.WriteLine($"O Seno de {angulo} é {seno}");
+            Console.WriteLine($"O Seno de {angulo}° é {Math.Round(seno, 4)}");
+        }
+
+        public void Coseno(double angulo)
+        {
+            double radiano = angulo * Math.PI / 180;
+            double coseno = Math.Cos(radiano);
+            Console.WriteLine($"O Coseno de {angulo}° é {Math.Round(coseno, 4)}");
+        }
+
+        public void Tangente(double angulo)
+        {
+            double radiano = angulo * Math.PI / 180;
+            double tangente = Math.Tan(radiano);
+            Console.WriteLine($"A Tangente de {angulo}° é {Math.Round(tangente, 4)}");
         }
 
     }

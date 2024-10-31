@@ -1,38 +1,13 @@
 ﻿using ExemploFundamentos.Models;
 
-Calculadora calc = new Calculadora();
+int numero = 10;
 
-Console.WriteLine("Digite a Operação matemática que você deseja realizar dentre essas \n + -> para somar\n - > para subtrair\n * -> para multiplicar\n / -> para dividir (divisões sem resto)\n ^ para potenciação (primeiro expoente e depois a base)");
-string operacao = Console.ReadLine();
+Console.WriteLine(numero);
 
-Console.WriteLine("Digite o primeiro número: ");
-int x = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Incrementando  o 10");
+numero++;// equivalente a numero = numero + 1; e para subtração utiliza-se numero--
 
-Console.WriteLine("Digite o segundo número: ");
-int y = Convert.ToInt32(Console.ReadLine());
-
-
-switch (operacao) 
-{
-    case "+":
-        calc.Somar(x, y);
-        break;
-    case "-":
-        calc.Subtrair(x, y);
-        break;
-    case "*":
-        calc.Multiplicar(x, y);
-        break;
-    case "/":
-        calc.Dividir(x, y);
-        break;
-    case "^":
-        calc.Potenciar(x, y);
-        break;
-    default:
-        Console.WriteLine("Valor inválido");
-        break;
-}
+Console.WriteLine(numero);
 
 
 
@@ -44,18 +19,87 @@ switch (operacao)
 
 
 
+// Calculadora calc = new Calculadora();
+
+
+// Console.WriteLine("Você está aqui para realizar operações com ângulos? [S/N]");
+// string resposta = Console.ReadLine();
+
+// if (resposta == "s")
+// {
+//     Console.WriteLine("Digite a operação trignométrica que deseja calcular \n sen -> para seno \n cos -> para coseno \n tan -> para tangente");
+//     string operacao = Console.ReadLine();
+
+//     Console.WriteLine("Digite o valor do ângulo (Não digite em radianos, realizarei a conversão sozinho)");
+//     double angulo = Convert.ToDouble(Console.ReadLine());
+
+//     switch (operacao)
+//     {
+//         case "sen":
+//             calc.Seno(angulo);
+//             break;
+//         case "cos":
+//             calc.Coseno(angulo);
+//             break;
+//         case "tan":
+//             calc.Tangente(angulo);
+//             break;
+//         default:
+//             Console.WriteLine("Valor Inválidp");
+//             break;
+        
+//     }
+// } 
+// else if (resposta == "n")
+// {
+//     Console.WriteLine("Deseja realizar operação matemática?");
+//     resposta = Console.ReadLine();
+//     if (resposta == "y")
+//     {
+//         Console.WriteLine("Se então Deseja realizar outra operação matemática");
+//         Console.WriteLine("Digite a Operação matemática que você deseja realizar dentre essas \n + -> para somar\n - > para subtrair\n * -> para multiplicar\n / -> para dividir (divisões sem resto)\n ^ para potenciação (primeiro expoente e depois a base)");
+//         string operacao = Console.ReadLine();
+
+//         Console.WriteLine("Digite o primeiro número: ");
+//         int x = Convert.ToInt32(Console.ReadLine());
+
+//         Console.WriteLine("Digite o segundo número: ");
+//         int y = Convert.ToInt32(Console.ReadLine());
 
 
 
-
-
-
-
-
-
-
-
-
+//         switch (operacao) 
+//         {
+//             case "+":
+//                 calc.Somar(x, y);
+//                 break;
+//             case "-":
+//                 calc.Subtrair(x, y);
+//                 break;
+//             case "*":
+//                 calc.Multiplicar(x, y);
+//                 break;
+//             case "/":
+//                 calc.Dividir(x, y);
+//                 break;
+//             case "^":
+//                 calc.Potenciar(x, y);
+//                 break;
+//             default:
+//                 Console.WriteLine("Valor inválido");
+//                 break;
+//         }
+//     }
+//     else
+//     {
+//         Console.WriteLine("Se não deseja nada programa está sendo encerrado");
+//     }
+    
+// }
+// else
+// {
+//     Console.WriteLine("Encerrando programa");
+// }
 
 
 
