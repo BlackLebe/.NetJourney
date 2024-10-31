@@ -36,5 +36,12 @@ namespace ExemploFundamentos.Models
             Console.WriteLine($"A Potenciação de expoente {y} na base {x} é  {potencia}");
         }
 
+        public void Seno(double angulo)
+        {
+            double radiano = angulo * Math.PI / 180;
+            double seno = Math.Sin(radiano);
+            Console.WriteLine($"O Seno de {angulo} é {seno}");
+        }
+
     }
 }
