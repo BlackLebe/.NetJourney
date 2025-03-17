@@ -1,0 +1,15 @@
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\Balta\bin\Debug\net9.0\Balta.exe
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\Balta\bin\Debug\net9.0\Balta.deps.json
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\Balta\bin\Debug\net9.0\Balta.runtimeconfig.json
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\Balta\bin\Debug\net9.0\Balta.dll
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\Balta\bin\Debug\net9.0\Balta.pdb
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\Balta\obj\Debug\net9.0\Balta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\Balta\obj\Debug\net9.0\Balta.AssemblyInfoInputs.cache
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\Balta\obj\Debug\net9.0\Balta.AssemblyInfo.cs
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\Balta\obj\Debug\net9.0\Balta.csproj.CoreCompileInputs.cache
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\Balta\obj\Debug\net9.0\Balta.sourcelink.json
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\Balta\obj\Debug\net9.0\Balta.dll
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\Balta\obj\Debug\net9.0\refint\Balta.dll
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\Balta\obj\Debug\net9.0\Balta.pdb
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\Balta\obj\Debug\net9.0\Balta.genruntimeconfig.cache
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\Balta\obj\Debug\net9.0\ref\Balta.dll
