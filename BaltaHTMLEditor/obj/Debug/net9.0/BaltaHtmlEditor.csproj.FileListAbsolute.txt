@@ -1,0 +1,15 @@
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\BaltaHTMLEditor\bin\Debug\net9.0\BaltaHtmlEditor.exe
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\BaltaHTMLEditor\bin\Debug\net9.0\BaltaHtmlEditor.deps.json
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\BaltaHTMLEditor\bin\Debug\net9.0\BaltaHtmlEditor.runtimeconfig.json
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\BaltaHTMLEditor\bin\Debug\net9.0\BaltaHtmlEditor.dll
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\BaltaHTMLEditor\bin\Debug\net9.0\BaltaHtmlEditor.pdb
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\BaltaHTMLEditor\obj\Debug\net9.0\BaltaHtmlEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\BaltaHTMLEditor\obj\Debug\net9.0\BaltaHtmlEditor.AssemblyInfoInputs.cache
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\BaltaHTMLEditor\obj\Debug\net9.0\BaltaHtmlEditor.AssemblyInfo.cs
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\BaltaHTMLEditor\obj\Debug\net9.0\BaltaHtmlEditor.csproj.CoreCompileInputs.cache
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\BaltaHTMLEditor\obj\Debug\net9.0\BaltaHtmlEditor.sourcelink.json
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\BaltaHTMLEditor\obj\Debug\net9.0\BaltaHtmlEditor.dll
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\BaltaHTMLEditor\obj\Debug\net9.0\refint\BaltaHtmlEditor.dll
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\BaltaHTMLEditor\obj\Debug\net9.0\BaltaHtmlEditor.pdb
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\BaltaHTMLEditor\obj\Debug\net9.0\BaltaHtmlEditor.genruntimeconfig.cache
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\BaltaHTMLEditor\obj\Debug\net9.0\ref\BaltaHtmlEditor.dll

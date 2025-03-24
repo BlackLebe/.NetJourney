@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudo\\Codando\\.NetJourney\\BaltaHtmlEditor\\BaltaHtmlEditor.csproj": {}
+    "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudo\\Codando\\.NetJourney\\BaltaHTMLEditor\\BaltaHtmlEditor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudo\\Codando\\.NetJourney\\BaltaHtmlEditor\\BaltaHtmlEditor.csproj": {
+    "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudo\\Codando\\.NetJourney\\BaltaHTMLEditor\\BaltaHtmlEditor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudo\\Codando\\.NetJourney\\BaltaHtmlEditor\\BaltaHtmlEditor.csproj",
+        "projectUniqueName": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudo\\Codando\\.NetJourney\\BaltaHTMLEditor\\BaltaHtmlEditor.csproj",
         "projectName": "BaltaHtmlEditor",
-        "projectPath": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudo\\Codando\\.NetJourney\\BaltaHtmlEditor\\BaltaHtmlEditor.csproj",
+        "projectPath": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudo\\Codando\\.NetJourney\\BaltaHTMLEditor\\BaltaHtmlEditor.csproj",
         "packagesPath": "C:\\Users\\caleb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudo\\Codando\\.NetJourney\\BaltaHtmlEditor\\obj\\",
+        "outputPath": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudo\\Codando\\.NetJourney\\BaltaHTMLEditor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\caleb\\AppData\\Roaming\\NuGet\\NuGet.Config"
