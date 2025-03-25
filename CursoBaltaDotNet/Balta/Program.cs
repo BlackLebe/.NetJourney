@@ -10,10 +10,64 @@ namespace Balta
         {
             Console.Clear();
 
-            decimal valor = 10.25m;
-            var culture = valor.ToString("C", CultureInfo.CreateSpecificCulture("pt-BR")); // existem várias formas de se formatar, mas o mais utilizado seria o C de Currency 
-                                                                                           // que mostra já considerando a moeda com o Culture, tipo real ou dolar.
-            Console.WriteLine(culture.ToString());
+            var arr = new int[3];
+            try
+            {
+                for (var index = 0; index < 10; index++)
+                {
+                    // System.IndexOutOfRangeException
+                    Console.WriteLine(arr[index]);
+                }
+            }
+            catch (IndexOutOfRangeException ex)
+            {
+                Console.WriteLine(ex.InnerException);
+                Console.WriteLine(ex.Message);
+                Console.WriteLine("Não encontrei o índiec na lista");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.InnerException);
+                Console.WriteLine(ex.Message);
+                Console.WriteLine("Ops algo deu errado!!");
+            }
+
+
+
+
+
+
+
+            // var funcionarios = new Funcionario[2];
+            // for (var index = 0; index < funcionarios.Length; index++)
+            // {
+            //     Console.WriteLine("Digite o Nome do funcionário: ");
+            //     string nome = Console.ReadLine();
+
+            //     Console.WriteLine("Digite o Seu ID: ");
+            //     int id = Int32.Parse(Console.ReadLine());
+            //     funcionarios[index] = new Funcionario() { Id = id, NomeFuncionário = nome };
+            // }
+            // for (var index = 0; index < funcionarios.Length; index++)
+            // {
+            //     Console.WriteLine("Nome do funcionário " + (index + 1) + " " + funcionarios[index].NomeFuncionário);
+            // }
+            // funcionarios[0] = new Funcionario() { Id = 3456, NomeFuncionário = "Pedro" };
+            // foreach (var funcionario in funcionarios)
+            // {
+            //     Console.WriteLine(funcionario.Id);
+            //     Console.WriteLine(funcionario.NomeFuncionário);
+            // }
+
+            // decimal valor = 10536.25m;
+            // Console.WriteLine(
+            //     Math.Round(valor)); // Round vai arredondar,
+            // Console.WriteLine(Math.Ceiling(valor)); // Sealing vai arredondar pra cima,
+            // Console.WriteLine(Math.Floor(valor)); /// e Roof vai arredondar pra baixo
+
+            //var culture = valor.ToString("C", CultureInfo.CreateSpecificCulture("pt-BR")); // existem várias formas de se formatar, mas o mais utilizado seria o C de Currency 
+            // que mostra já considerando a moeda com o Culture, tipo real ou dolar.
+            //Console.WriteLine(culture.ToString());
             // pode fazer assim tbm, direto no caso
             // Console.WriteLine(valor.ToString(CultureInfo.CreateSpecificCulture("pt-BR")));
 
@@ -94,6 +148,26 @@ namespace Balta
             // var texto = Console.ReadLine();
             // Console.WriteLine(texto);
         }
+
+
+
+
+        private static void Cadastrar(string texto)
+        {
+            if (string.IsNullOrEmpty(texto))
+                throw new Exception("O texto não pode ser nulo ou vazio");
+        }
+
+        public class MinhaException : Exception
+        {
+            public DateTime QuandoAcontceu { get; set; }
+        }
+    }
+
+    public struct Funcionario
+    {
+        public int Id { get; set; }
+        public string NomeFuncionário { get; set; }
     }
 
     struct Product
