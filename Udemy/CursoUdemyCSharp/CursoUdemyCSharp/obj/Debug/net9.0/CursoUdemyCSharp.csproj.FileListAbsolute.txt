@@ -1,0 +1,15 @@
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\Udemy\CursoUdemyCSharp\CursoUdemyCSharp\bin\Debug\net9.0\CursoUdemyCSharp.exe
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\Udemy\CursoUdemyCSharp\CursoUdemyCSharp\bin\Debug\net9.0\CursoUdemyCSharp.deps.json
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\Udemy\CursoUdemyCSharp\CursoUdemyCSharp\bin\Debug\net9.0\CursoUdemyCSharp.runtimeconfig.json
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\Udemy\CursoUdemyCSharp\CursoUdemyCSharp\bin\Debug\net9.0\CursoUdemyCSharp.dll
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\Udemy\CursoUdemyCSharp\CursoUdemyCSharp\bin\Debug\net9.0\CursoUdemyCSharp.pdb
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\Udemy\CursoUdemyCSharp\CursoUdemyCSharp\obj\Debug\net9.0\CursoUdemyCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\Udemy\CursoUdemyCSharp\CursoUdemyCSharp\obj\Debug\net9.0\CursoUdemyCSharp.AssemblyInfoInputs.cache
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\Udemy\CursoUdemyCSharp\CursoUdemyCSharp\obj\Debug\net9.0\CursoUdemyCSharp.AssemblyInfo.cs
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\Udemy\CursoUdemyCSharp\CursoUdemyCSharp\obj\Debug\net9.0\CursoUdemyCSharp.csproj.CoreCompileInputs.cache
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\Udemy\CursoUdemyCSharp\CursoUdemyCSharp\obj\Debug\net9.0\CursoUdemyCSharp.sourcelink.json
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\Udemy\CursoUdemyCSharp\CursoUdemyCSharp\obj\Debug\net9.0\CursoUdemyCSharp.dll
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\Udemy\CursoUdemyCSharp\CursoUdemyCSharp\obj\Debug\net9.0\refint\CursoUdemyCSharp.dll
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\Udemy\CursoUdemyCSharp\CursoUdemyCSharp\obj\Debug\net9.0\CursoUdemyCSharp.pdb
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\Udemy\CursoUdemyCSharp\CursoUdemyCSharp\obj\Debug\net9.0\CursoUdemyCSharp.genruntimeconfig.cache
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\Udemy\CursoUdemyCSharp\CursoUdemyCSharp\obj\Debug\net9.0\ref\CursoUdemyCSharp.dll
