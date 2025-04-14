@@ -8,6 +8,7 @@ namespace CursoUdemyCSharp {
         static void Main(string[] args) {
             var central = new CentralDeExercicios(new Dictionary<string, Action>() {
                 {"Primeiro Programa - Fundamentos", PrimeiroPrograma.Executar},
+                {"Variaveis e Constantes - FUndamentos", VariaveisEConstantes.Executar},
             });
 
             central.SelecionarEExecutar();

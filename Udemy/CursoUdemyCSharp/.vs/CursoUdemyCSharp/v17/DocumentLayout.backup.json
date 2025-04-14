@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudo\\Codando\\.NetJourney\\Udemy\\CursoUdemyCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A5DAFC5-B056-48D4-BC43-73E4F16F4389}|CursoUdemyCSharp\\CursoUdemyCSharp.csproj|c:\\users\\caleb\\onedrive\\documentos\\estudo\\codando\\.netjourney\\udemy\\cursoudemycsharp\\cursoudemycsharp\\fundamentos\\primeiroprograma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A5DAFC5-B056-48D4-BC43-73E4F16F4389}|CursoUdemyCSharp\\CursoUdemyCSharp.csproj|solutionrelative:cursoudemycsharp\\fundamentos\\primeiroprograma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A5DAFC5-B056-48D4-BC43-73E4F16F4389}|CursoUdemyCSharp\\CursoUdemyCSharp.csproj|c:\\users\\caleb\\onedrive\\documentos\\estudo\\codando\\.netjourney\\udemy\\cursoudemycsharp\\cursoudemycsharp\\fundamentos\\variaveiseconstantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5DAFC5-B056-48D4-BC43-73E4F16F4389}|CursoUdemyCSharp\\CursoUdemyCSharp.csproj|solutionrelative:cursoudemycsharp\\fundamentos\\variaveiseconstantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A5DAFC5-B056-48D4-BC43-73E4F16F4389}|CursoUdemyCSharp\\CursoUdemyCSharp.csproj|c:\\users\\caleb\\onedrive\\documentos\\estudo\\codando\\.netjourney\\udemy\\cursoudemycsharp\\cursoudemycsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A5DAFC5-B056-48D4-BC43-73E4F16F4389}|CursoUdemyCSharp\\CursoUdemyCSharp.csproj|solutionrelative:cursoudemycsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A5DAFC5-B056-48D4-BC43-73E4F16F4389}|CursoUdemyCSharp\\CursoUdemyCSharp.csproj|c:\\users\\caleb\\onedrive\\documentos\\estudo\\codando\\.netjourney\\udemy\\cursoudemycsharp\\cursoudemycsharp\\centraldeexercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A5DAFC5-B056-48D4-BC43-73E4F16F4389}|CursoUdemyCSharp\\CursoUdemyCSharp.csproj|solutionrelative:cursoudemycsharp\\centraldeexercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A5DAFC5-B056-48D4-BC43-73E4F16F4389}|CursoUdemyCSharp\\CursoUdemyCSharp.csproj|c:\\users\\caleb\\onedrive\\documentos\\estudo\\codando\\.netjourney\\udemy\\cursoudemycsharp\\cursoudemycsharp\\fundamentos\\primeiroprograma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5DAFC5-B056-48D4-BC43-73E4F16F4389}|CursoUdemyCSharp\\CursoUdemyCSharp.csproj|solutionrelative:cursoudemycsharp\\fundamentos\\primeiroprograma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,30 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CentralDeExercicios.cs",
-              "DocumentMoniker": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudo\\Codando\\.NetJourney\\Udemy\\CursoUdemyCSharp\\CursoUdemyCSharp\\CentralDeExercicios.cs",
-              "RelativeDocumentMoniker": "CursoUdemyCSharp\\CentralDeExercicios.cs",
-              "ToolTip": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudo\\Codando\\.NetJourney\\Udemy\\CursoUdemyCSharp\\CursoUdemyCSharp\\CentralDeExercicios.cs",
-              "RelativeToolTip": "CursoUdemyCSharp\\CentralDeExercicios.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "VariaveisEConstantes.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudo\\Codando\\.NetJourney\\Udemy\\CursoUdemyCSharp\\CursoUdemyCSharp\\Fundamentos\\VariaveisEConstantes.cs",
+              "RelativeDocumentMoniker": "CursoUdemyCSharp\\Fundamentos\\VariaveisEConstantes.cs",
+              "ToolTip": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudo\\Codando\\.NetJourney\\Udemy\\CursoUdemyCSharp\\CursoUdemyCSharp\\Fundamentos\\VariaveisEConstantes.cs",
+              "RelativeToolTip": "CursoUdemyCSharp\\Fundamentos\\VariaveisEConstantes.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswDIAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T16:22:56.653Z",
+              "WhenOpened": "2025-04-14T15:17:50.305Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PrimeiroPrograma.cs",
               "DocumentMoniker": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudo\\Codando\\.NetJourney\\Udemy\\CursoUdemyCSharp\\CursoUdemyCSharp\\Fundamentos\\PrimeiroPrograma.cs",
               "RelativeDocumentMoniker": "CursoUdemyCSharp\\Fundamentos\\PrimeiroPrograma.cs",
               "ToolTip": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudo\\Codando\\.NetJourney\\Udemy\\CursoUdemyCSharp\\CursoUdemyCSharp\\Fundamentos\\PrimeiroPrograma.cs",
               "RelativeToolTip": "CursoUdemyCSharp\\Fundamentos\\PrimeiroPrograma.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T16:03:55.852Z",
               "EditorCaption": ""
@@ -58,7 +58,7 @@
               "RelativeDocumentMoniker": "CursoUdemyCSharp\\Program.cs",
               "ToolTip": "C:\\Users\\caleb\\OneDrive\\Documentos\\Estudo\\Codando\\.NetJourney\\Udemy\\CursoUdemyCSharp\\CursoUdemyCSharp\\Program.cs",
               "RelativeToolTip": "CursoUdemyCSharp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T19:06:47.969Z",
               "EditorCaption": ""
