@@ -1,0 +1,12 @@
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\DIO\Teoricos\ExemploFundamentos.Common\bin\Debug\net9.0\ExemploFundamentos.Common.deps.json
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\DIO\Teoricos\ExemploFundamentos.Common\bin\Debug\net9.0\ExemploFundamentos.Common.dll
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\DIO\Teoricos\ExemploFundamentos.Common\bin\Debug\net9.0\ExemploFundamentos.Common.pdb
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\DIO\Teoricos\ExemploFundamentos.Common\obj\Debug\net9.0\ExemploFundamentos.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\DIO\Teoricos\ExemploFundamentos.Common\obj\Debug\net9.0\ExemploFundamentos.Common.AssemblyInfoInputs.cache
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\DIO\Teoricos\ExemploFundamentos.Common\obj\Debug\net9.0\ExemploFundamentos.Common.AssemblyInfo.cs
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\DIO\Teoricos\ExemploFundamentos.Common\obj\Debug\net9.0\ExemploFundamentos.Common.csproj.CoreCompileInputs.cache
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\DIO\Teoricos\ExemploFundamentos.Common\obj\Debug\net9.0\ExemploFundamentos.Common.sourcelink.json
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\DIO\Teoricos\ExemploFundamentos.Common\obj\Debug\net9.0\ExemploFundamentos.Common.dll
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\DIO\Teoricos\ExemploFundamentos.Common\obj\Debug\net9.0\refint\ExemploFundamentos.Common.dll
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\DIO\Teoricos\ExemploFundamentos.Common\obj\Debug\net9.0\ExemploFundamentos.Common.pdb
+C:\Users\caleb\OneDrive\Documentos\Estudo\Codando\.NetJourney\DIO\Teoricos\ExemploFundamentos.Common\obj\Debug\net9.0\ref\ExemploFundamentos.Common.dll
