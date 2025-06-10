@@ -1,9 +1,121 @@
-﻿using ExemploFundamentos.Common.Models;
+﻿using System.Diagnostics.Contracts;
+using ExemploFundamentos.Common.Models;
+Console.Clear();
 
-Pessoa pessoa1 = new Pessoa();
-pessoa1.Nome = "Calebe";
-pessoa1.Idade = 20;
-pessoa1.Apresentar();
+List<string> listaString = new List<string>();
+
+listaString.Add("SP");
+listaString.Add("BA");
+listaString.Add("MG");
+
+for (int contador = 0; contador < listaString.Count; contador++)
+{
+    Console.WriteLine($"Posição N° {contador} - {listaString[contador]}");
+}
+
+
+Console.WriteLine("qual você deseja excluir?");
+string? prompt = Console.ReadLine();
+for (int i = 0; i < listaString.Count; i++)
+{
+    if (listaString[i].Equals(prompt))
+    {
+        listaString.RemoveAt(i);
+    }
+}
+for (int contador = 0; contador < listaString.Count; contador++)
+{
+    Console.WriteLine($"Posição N° {contador} - {listaString[contador]}");
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// int[] arrayInteiros = new int[3];
+
+// arrayInteiros[0] = 3;
+// arrayInteiros[1] = 64;
+// arrayInteiros[2] = 22;
+
+// Array.Resize(ref arrayInteiros, arrayInteiros.Length  * 2);
+
+// Console.WriteLine("Percorrendo o array com FOR");
+// for (int contador = 0; contador < arrayInteiros.Length; contador++)
+// {
+//     Console.WriteLine($"Posição N° {contador} - {arrayInteiros[contador]}");
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// int contadorForeach = 0;
+// Console.WriteLine("percorrendo o array com FOREACH");
+// foreach (int valor in arrayInteiros)
+// {
+//     Console.WriteLine($"Posição N° {contadorForeach} - {arrayInteiros[contadorForeach]}");
+
+//     contadorForeach++;
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Pessoa pessoa1 = new Pessoa();
+// pessoa1.Nome = "Calebe";
+// pessoa1.Idade = 20;
+// pessoa1.Apresentar();
 
 
 
